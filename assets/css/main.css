@@ -150,24 +150,3 @@ button
     width: 150px;
     cursor: pointer;
 }
-.footer{
-    background-color: transparent;
-    background-color: rgb(250, 245, 253);
-    background-size: 100%;
-    display: flex;
-    justify-content: space-around;
-    position:relative;
-    padding: 0 40px;
-}
-li{
-    list-style: none;
-    padding-bottom: 20px;
-}
-.last__page{
-    font-family: 'Inclusive Sans', sans-serif;
-    font-size: 24px;
-}
-.footer__VN, 
-.footer__ENG{
-    padding-top: 20px;
-}
